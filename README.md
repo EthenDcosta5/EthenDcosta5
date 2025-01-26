@@ -6,7 +6,7 @@ Welcome to my GitHub profile! 🚀 I'm a **Data Analyst** with a key interest in
 
 ## 🌟 About Me  
 
-- 🔭 Currently working on **healthcare claims analysis** and **fraud detection models**.  
+- 🔭 Currently working on presentation and communication skills.  
 - 🎯 Skilled in **Python**, **SQL**, **Power BI**, **Tableau**, and **Advanced Excel**.  
 - 🎨 Creating visually stunning and insightful **dashboards** is my forte. 
 - 💼 Aspiring to grow as a **Data Analyst**.  
